@@ -1,6 +1,6 @@
-# contactlist
+# Contact List
 
-A flutter Project that uses provider and sqflite  packages.
+A Contact list project that implements crud operations on sqflite database, along with Provider State Management.
 
 ## Getting Started
 
